@@ -4,10 +4,9 @@ SimBlock is an open source blockchain network simulator, developed by Distribute
 
 https://dsg-titech.github.io/simblock/
 
-- [User Guide (English)](https://github.com/Unipisa/SimBlock/blob/main/docs/en/usage.md)
-
-
 In June 2021, SimBlock has been improved by University of Pisa, Dept. of Ingegneria dell'Informazione.
+
+- [User Guide (English)](https://github.com/Unipisa/SimBlock/blob/main/docs/en/usage.md)
 
 ## Additional/Improved Features
 - Added parametrization for year 2021 (resembling the state of the Bitcoin blockchain in the time-frame from March 1th, 2021 to April 13th, 2021).
